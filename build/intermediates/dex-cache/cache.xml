@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\MEGA\AutoIncrementBuildVersion-master\AutoIncrementBuildVersion-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\MEGA\AutoIncrementBuildVersion-master\AutoIncrementBuildVersion-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_030ebc145afb7bdb4ccfcb3db0e2324d9752d0be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\resource\.android\build-cache\12cee25df47da1c92b02d59b7dce431779603c9b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\MEGA\AutoIncrementBuildVersion-master\AutoIncrementBuildVersion-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_750f0eca3b25bf4c92c89df10d397263d6f67134\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\resource\.android\build-cache\0f10e37ef76c621a4a278f1af8416a8df955613a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\MEGA\AutoIncrementBuildVersion-master\AutoIncrementBuildVersion-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0706644680adeb8964b59af567f2e0a151d9084\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MEGA\AutoIncrementBuildVersion-master\AutoIncrementBuildVersion-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="978e2615e4d3207080fba9a1cce871c50fd8a195">
+        <dex dex="C:\MEGA\AutoIncrementBuildVersion-master\AutoIncrementBuildVersion-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_62018e3cec14e0ed36efa342f01323a937d1ef99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\resource\.android\build-cache\788a2fb7bca7c41d0f22cb227bca0754a3a5bde8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\MEGA\AutoIncrementBuildVersion-master\AutoIncrementBuildVersion-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf95622266e75b42028f70a4d203fff5b85bd268\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\resource\.android\build-cache\41cc1c4dcf60c9118b766cf45511bcc62d570e06\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\MEGA\AutoIncrementBuildVersion-master\AutoIncrementBuildVersion-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ed246e794f868f44a3c316a4a8128873ddb585c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\resource\.android\build-cache\c7810efab5445d3aae13bed6303832472d8ccadd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\MEGA\AutoIncrementBuildVersion-master\AutoIncrementBuildVersion-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b41f5a456c061761373633f03407235efced9329\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\resource\.android\build-cache\b1221863ee6395268999046b8879e6949841d7cf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\MEGA\AutoIncrementBuildVersion-master\AutoIncrementBuildVersion-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_904b6999e0ab6b086fd8cce088023a1c9f0f67df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\resource\.android\build-cache\bcccd0d7bd8b30b13227b8b6b0305e111eec329d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\MEGA\AutoIncrementBuildVersion-master\AutoIncrementBuildVersion-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2a6750e19a51489a394109c3249144d343723af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\resource\.android\build-cache\bf5e19dfa7a7a2d6f7619cfdda39375fd93db7c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\MEGA\AutoIncrementBuildVersion-master\AutoIncrementBuildVersion-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9bdc0d017dfd11d2d03008e003873f115fad5912\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\resource\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\MEGA\AutoIncrementBuildVersion-master\AutoIncrementBuildVersion-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_8179e6353b02c593f0f958a53e8571034e3945c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\resource\.android\build-cache\48012d0e38f135f4f827b5e70d0dc827282c58e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\MEGA\AutoIncrementBuildVersion-master\AutoIncrementBuildVersion-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe94f75810831dc6ab294f51e07b51264762285d\classes.dex" />
+    </item>
+
+</items>
